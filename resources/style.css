@@ -7,9 +7,14 @@ h1 {
   font-size: 70px;
   font-weight: bold;
   color: white;
+  background-image: url("resources/images/sky.png");
 }
 
-.links {
+#header {
+  background-image: url("resources/images/sky.png");
+}
+
+.links h1{
   font-size: 18px;
   color: white;
 }
