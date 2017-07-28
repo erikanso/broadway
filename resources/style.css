@@ -10,7 +10,7 @@ h1 {
 }
 
 #header {
-  background-image: url("resources/images/sky.png");
+  background-image: url("../resources/images/sky.png");
 }
 
 .links {
@@ -32,7 +32,6 @@ h4 {
   font-size: 23px;
   font-weight: bold;
   color: white;
-  background-image: url("resources/images/sky.png")
 }
 
 p {
