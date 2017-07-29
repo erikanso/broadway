@@ -4,13 +4,14 @@ body {
 }
 
 h1 {
-  font-size: 65px;
+  font-size: 70px;
   font-weight: bold;
   color: white;
 }
 
 #header {
-  background-image: url("../resources/images/sky.png");
+  background-image: url("./images/sky.png");
+  background-size: cover;
 }
 
 a {
